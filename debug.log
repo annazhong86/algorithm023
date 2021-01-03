@@ -1,0 +1,3 @@
+[0103/162322.437:ERROR:filesystem_win.cc(129)] GetFileAttributes c:\Users\anna\AppData\Roaming\Code\User\workspaceStorage\a18f51a83b0c59eabc90dd314772543b\ms-vscode.js-debug\.profile\Crashpad\attachments\2ead854e-f9ed-4ab2-8b0f-cacf1b8ac280: 系统找不到指定的路径。 (0x3)
+[0103/162342.887:ERROR:filesystem_win.cc(129)] GetFileAttributes c:\Users\anna\AppData\Roaming\Code\User\workspaceStorage\a18f51a83b0c59eabc90dd314772543b\ms-vscode.js-debug\.profile\Crashpad\attachments\dbf7b95d-4552-4774-9292-7f65f7beba16: 系统找不到指定的路径。 (0x3)
+[0103/162404.009:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
