@@ -15,7 +15,7 @@ class Solution:
         for r in range(nr):
             for c in range(nc):
                 if grid[r][c] == "1":
-                    num_islands + =1
+                    num_islands +=1
                     self.dfs(grid, r, c)
         
         return num_islands
